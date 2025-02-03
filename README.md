@@ -47,4 +47,4 @@ To submit your assignment, please upload a Jupyter Notebook (.ipynb file) contai
 
 ![Image](https://github.com/user-attachments/assets/ffc0aea0-b600-4fd7-9b7b-881f0f163b73)
 
-![Image](https://github.com/user-attachments/assets/464a6c2f-bb6c-4ac1-b1ff-15873f9b6f1b)
+
