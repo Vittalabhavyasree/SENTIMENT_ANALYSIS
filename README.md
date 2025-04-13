@@ -12,9 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:
-
-The primary objective of this task is to perform sentiment analysis on textual data using Natural Language Processing (NLP) techniques. Sentiment analysis is a crucial aspect of NLP that involves determining the emotional tone or attitude conveyed by a piece of text. This task requires the application of NLP techniques to analyze textual data, such as tweets or reviews, and classify the sentiment expressed in the text as positive, negative, or neutral.
+*DESCRIPTION*:The primary objective of this task is to perform sentiment analysis on textual data using Natural Language Processing (NLP) techniques. Sentiment analysis is a crucial aspect of NLP that involves determining the emotional tone or attitude conveyed by a piece of text. This task requires the application of NLP techniques to analyze textual data, such as tweets or reviews, and classify the sentiment expressed in the text as positive, negative, or neutral.
 
 The deliverable for this task is a Jupyter Notebook that showcases the entire process of sentiment analysis, from data preprocessing to model implementation and insights. The notebook should be well-organized, with clear headings and sections, and should include a brief summary of the findings and implications.
 
